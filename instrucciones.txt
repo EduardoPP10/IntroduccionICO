@@ -1,0 +1,29 @@
+Actividad en clase: Uso de la terminal de GIT: creación de carpetas, 
+archivos y generar commits a un repositorio remoto.
+
+--Formar equipos de 3 a 5 integrantes, asignar un nombre a su equipo
+--Recordar/repasar lo que se abordo la clase pasada y trazar un plan para
+generar carpetas, archivos y subir las modificaciones a un repositorio remoto
+a través de la terminal de Git.
+--Tendrán 25 minutos para trazar el plan: Puede ser en digital o en una hoja
+de papel. (el plan son los comandos que ustedes van a utilizar y su justificación/lo que hace cada comando).
+--Una vez terminado el tiempo pasarán todos los integrantes del equipo a 
+realizar la siguiente secuencia de instrucciones(el profesor podrá elegir que
+integrante realiza cada paso).  
+
+--A través de la terminal de git bash:
+1. Ir a la carpeta "Introduccion ICO"
+2. Crear una carpeta con el nombre de su equipo e ir a esa carpeta
+3. Crear un archivo equipo.txt
+4. Modificar desde la consola el archivo y agregar el nombre de 
+los integrantes del equipo en esta forma:
+	1. Integrante 1
+	2. Integrante 2
+	3. Integrante 3
+	4. Integrante 4
+	5. Integrante 5
+5.Guardar el archivo.
+6.Ir a la carpeta "Introduccion ICO"
+7.Subir los cambios al repositorio remoto de Git-Hub
+(utilizar los 3 comandos que vimos la clase pasada).
+8.Verificar si en el repositorio remoto están los archivos.
